@@ -84,3 +84,5 @@ KindKart/
 ## Contributing
 
 Contributions to the KindKart project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+
+![Diagram](assets/donatebg.jpg)
