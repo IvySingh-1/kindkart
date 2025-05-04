@@ -26,12 +26,19 @@ This project includes a user login and signup system using Firebase Authenticati
 ![image](https://github.com/user-attachments/assets/0787dc54-13c9-49e5-b5dd-ef5f2975fc67)
 
 * **EmailJS:** Service for sending emails directly from the frontend.
+![Diagram](assets/emailjs.jpeg)
+
 * **GEOAPIFY:** For reverse geocoding (converting coordinates to an address).
+![Diagram](assets/geoapify.jpeg)
+
+* **OpenStreetMap Nominatim API:** For reverse geocoding (converting coordinates to an address).
+
 
 
 ## Usage
 
 1.  **Login/Sign Up:** New users can sign up for an account on the `login.html` page. Existing users can log in.
+![Diagram](assets/loginpg.jpeg)
 2.  **Browse Categories:** After successful login, users are redirected to the donation page (`donate.html`) where they can see different categories of items.
 3.  **Select Subcategory:** Clicking on a category card will smoothly scroll to the corresponding subcategory section.
 4.  **Provide Donation Details:** Within a subcategory, users can:
@@ -63,4 +70,4 @@ KindKart/
 
 Contributions to the KindKart project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
-![Diagram](assets/donatebg.jpg)
+
